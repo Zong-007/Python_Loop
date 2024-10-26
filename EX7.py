@@ -20,7 +20,7 @@ Even Number:  10
 
 """
 for x in range(1,11) :
-    if  ==  :
+    if () ==  :
         print("Even Number: ",)
     else:
         print("Odd Number: ",)

@@ -17,4 +17,4 @@ Square of:  5 is:  25
 number = [1, 2, 3, 4, 5]
 
 for x in  :
-    print("Square of: ", , , x*)
+    print("Square of: ", _, _, x*)
