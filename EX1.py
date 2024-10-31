@@ -13,7 +13,3 @@ geeks
 
 """
 
-list = []
-
-for x in :
-  print()
